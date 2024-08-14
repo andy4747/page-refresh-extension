@@ -68,7 +68,7 @@ If you'd like to contribute or modify the extension:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/page-refresher.git
+   git clone https://github.com/andy4747/page-refresh-extension.git
    cd page-refresher
    ```
 
