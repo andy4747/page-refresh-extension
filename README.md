@@ -26,13 +26,13 @@
 
 To install the Page Refresher extension, you have two options:
 
-1. **From the Chrome Web Store:**
+<!--1. **From the Chrome Web Store:**
 
    - Go to the [Chrome Web Store](https://chrome.google.com/webstore/category/extensions).
    - Search for "Page Refresher" and click "Add to Chrome."
-   - Follow the prompts to install the extension.
+   - Follow the prompts to install the extension.-->
 
-2. **Manual Installation:**
+1. **Manual Installation:**
 
    - **Download the Extension:**
 
