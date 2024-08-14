@@ -39,7 +39,7 @@ To install the Page Refresher extension, you have two options:
      - Clone the repository or download the ZIP file and extract it to a convenient location on your computer.
 
      ```bash
-     git clone https://github.com/yourusername/page-refresher.git
+     git clone https://github.com/andy4747/page-refresh-extension.git
      ```
 
    - **Load the Extension in Chrome:**
